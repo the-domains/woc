@@ -1,0 +1,14 @@
+layout_spectrum: 0.3527244
+typography_spectrum: 0.5594996
+color:
+  lightness: 0.8290995
+  brandStrength: 0.6283711
+  saturation: 0.9780253
+  rhythmicContrast: 0.424864
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: 'WoC '
