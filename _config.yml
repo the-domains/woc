@@ -1,5 +1,6 @@
-layout_spectrum: 0.3527244
 typography_spectrum: 0.5594996
+content_rating:
+  adult: false
 color:
   lightness: 0.8290995
   brandStrength: 0.6283711
@@ -11,17 +12,20 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-name: 'WoC '
-content: []
 github: true
+layout_spectrum: 0.3527244
 author:
   name: Vanessa Smith
   email: vanessa@chica.io
   url: 'http://news.chica.io'
-url: 'https://news.chica.io'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c81a7e7-c24a-470f-972f-35011fe83e7e.png
-content_rating:
-  adult: false
+name: News
+url: 'https://news.chica.io'
+navigation:
+  - name: Home
+    url: 'http://chica.io'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3e9990f-0e12-446c-ba28-a8de78085e3c.jpg
+content: []
