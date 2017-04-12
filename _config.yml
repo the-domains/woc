@@ -12,3 +12,16 @@ color:
     - '#6B574B'
     - '#160600'
 name: 'WoC '
+content: []
+github: true
+author:
+  name: Vanessa Smith
+  email: vanessa@chica.io
+  url: 'https://news.chica.io'
+url: 'https://news.chica.io'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c81a7e7-c24a-470f-972f-35011fe83e7e.png
+content_rating:
+  adult: false
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3e9990f-0e12-446c-ba28-a8de78085e3c.jpg
