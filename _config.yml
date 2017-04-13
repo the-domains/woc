@@ -15,13 +15,13 @@ color:
 github: true
 layout_spectrum: 0.3527244
 author:
-  name: Vanessa Smith
+  name: 'Chica IO '
   email: vanessa@chica.io
-  url: 'http://news.chica.io'
+  url: 'http://issues.chica.io'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c81a7e7-c24a-470f-972f-35011fe83e7e.png
 name: News
-url: 'https://news.chica.io'
+url: 'http://issues.chica.io/'
 navigation:
   - name: Home
     url: 'http://chica.io'
