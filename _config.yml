@@ -26,9 +26,6 @@ navigation:
   - name: Home
     url: 'http://chica.io'
     type: external
-  - name: Immigration
-    id: f7e2a24e-dc4f-4bb6-9a94-5f0347e1afd7
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3e9990f-0e12-446c-ba28-a8de78085e3c.jpg
 content: []
