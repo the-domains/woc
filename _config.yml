@@ -26,8 +26,11 @@ navigation:
   - name: Home
     url: 'http://chica.io'
     type: external
+  - name: News
+    url: 'http://news.chica.io'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3e9990f-0e12-446c-ba28-a8de78085e3c.jpg
-content: []
 title: CHICA
+content: []
 description: News | Issues | Policy
