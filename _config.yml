@@ -41,6 +41,9 @@ navigation:
   - name: Policy
     url: 'http://issues.chica.io/policy'
     type: external
+  - name: Latinas Uprising
+    url: 'http://issues.chica.io/latinas-uprising'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3e9990f-0e12-446c-ba28-a8de78085e3c.jpg
 title: CHICA
