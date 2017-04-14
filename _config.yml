@@ -29,15 +29,15 @@ navigation:
   - name: News
     url: 'http://news.chica.io'
     type: external
+  - name: Fearless Girl
+    id: efcdba94-a7a1-4bc2-9176-6377dd51e4e8
+    type: content
   - name: Issues
     url: 'http://issues.chica.io'
     type: external
   - name: Policy
     url: 'http://issues.chica.io/policy'
     type: external
-  - name: Fearless Girl
-    id: efcdba94-a7a1-4bc2-9176-6377dd51e4e8
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3e9990f-0e12-446c-ba28-a8de78085e3c.jpg
 title: CHICA
