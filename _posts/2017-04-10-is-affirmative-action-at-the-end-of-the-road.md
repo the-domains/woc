@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: by Nubia Willman
-dateModified: '2017-05-02T23:39:19.249Z'
-datePublished: '2017-05-02T23:39:19.409Z'
+dateModified: '2017-05-02T23:39:55.093Z'
+datePublished: '2017-05-02T23:39:55.450Z'
 title: Is Affirmative Action at the End of the Road?
 author: []
 publisher: {}
