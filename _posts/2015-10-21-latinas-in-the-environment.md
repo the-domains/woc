@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-05-02T23:39:19.416Z'
+datePublished: '2017-05-02T23:39:55.454Z'
 sourcePath: _posts/2015-10-21-latinas-in-the-environment.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2017-05-02T23:39:19.249Z'
+dateModified: '2017-05-02T23:39:55.093Z'
 title: Latinx in the Environmental Movement
 publisher: {}
 description: ''
