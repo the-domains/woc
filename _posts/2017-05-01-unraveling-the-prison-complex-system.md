@@ -1,15 +1,15 @@
 ---
-inFeed: true
-description: 'Unraveling the Prison Complex System:'
-dateModified: '2017-05-02T23:39:19.249Z'
-datePublished: '2017-05-02T23:39:19.369Z'
-title: ''
-author: []
 publisher:
   name: Vanessa Smith
+datePublished: '2017-05-04T17:52:41.385Z'
+dateModified: '2017-05-04T17:51:55.457Z'
+description: 'Unraveling the Prison Complex System:'
 via: {}
 sourcePath: _posts/2017-05-01-unraveling-the-prison-complex-system.md
+title: ''
 hasPage: true
+inFeed: true
+author: []
 starred: false
 datePublishedOriginal: '2017-05-02T23:39:04.046Z'
 url: unraveling-the-prison-complex-system/index.html
@@ -36,7 +36,7 @@ And just like that, is when my own personal Hell broke lose.
 
 Internet went down, alarm going of, I was drugged and abused in my own home. Almost the perfect crime... except for one thing. It all led to my losing my house, my life, my child to the corruption of the Cobb County Superior Court system.
 
-How this happened, in not quite sure, but the reasons why aren't that far fetched.
+How this happened, I'm not quite sure, but the reasons why aren't that far fetched.
 
 I lived in a house that had a large reserve behind it at Marietta, GA 30062\. Wide open woods, with access from various areas in which, after taking a few hikes wondering out on my own, I found could be accessible to nearly anyone that so had the wish or will to do so. Public property, no restrictions of access.
 
@@ -46,13 +46,17 @@ I was summoned in to court, with less than 24 hour notice, in a ill comprised su
 
 I'm hastily shoved into a Court room, Judge Stoddard preciding. Everyone was nice, cool, no feeling of conflict, except my own interruptions and pleas for counsel, so that I could " do whats best for my son".
 
-The Judge wanted me to sign an order, giving custody to my ex of my child, at which time, in a complete neurosis of my own, I pled only for legal representation about 4 times that I can recall. No, no, my pleas ignored. The Judge said in order for my son to stay at my ex's house, in which I didn't want my child to be at, I would have to sign my son away to a man, which I now had started just to understand, was sexually abusive with my child. I could lose my son to the system, was the suggestion. I'm in a nightmare, what is this?
+The Judge wanted me to sign an order, giving custody to my ex of my child, at which time, in a complete neurosis of my own, I pled only for legal representation about 4 times that I can recall. No, no, my pleas ignored. The Judge said in order for my son to stay at my ex's house, in which I didn't want my child to be at, I would have to sign my son away to a man, which I now had started just to understand, was sexually abusive with my child. I could lose my son to the system, was the suggestion. 
 
-My little boy was only eight years old, and I, at a loss of what to do. I had my job security taken from me, by my own family, terrorized at my house, and now facing the loss of my child. With nothing except defensive actions, unwaranted, unecessarily, and no resources. Nothing.
+_I'm in a nightmare, I realize...what is this?_
 
-It wasn't until a few months later that I discovered the original complaint (at best), that the Court had considered for the initial Emergency Hearing. No petition for Legitimization, no actual notice of what matter of the hearing were for. It was a preposterous bag of bullshit, wild accusations that amounted to absoloutely nothing but repetitive, slanderous allegations from my ex. The crazy neighbor, Amy Reyes, who just made my life a Hell.
+My little boy was only eight years old at the time, and at a loss of what to do. I had my job security taken from me, by my own family, terrorized at my house, and now facing the loss of my child. With nothing except defensive actions, unwarranted, unecessarily, and with absolutely no resources. Nothing.
 
-Now, not only is a Legitimization not supposed to be in an Emergency Hearing, as my summons would have it, but all issues of custoy should be in a separate hearing, applying only their own Rules for Legitimazation that they have in Cobb County.
+It wasn't until a few months later that I discovered the original complaint (at best), that the Court had considered for the initial Emergency Hearing, the action sent to me in the initial (and inadmissable) summons package. No petition for Legitimization, without an actual notice of what matter of the hearing was for. 
+
+It was a preposterous bag of bullshit, wild accusations that amounted to absoloutely nothing but repetitive, slanderous allegations from my ex, which I only found out months later, off the Cobb County Civil Court online portal. It was the initial pleading, complaint and emergency hearing 
+
+Now, not only is a Legitimization not supposed to be in an Emergency Hearing, as my summons would have it, but all issues of custody should be in a separate hearing, applying only their own Rules for Legitimization that they have in Cobb County.
 
 As a disabled, as an indigent, and as a minor, my son and I both have been hugely neglected our rights.
 
@@ -88,7 +92,7 @@ Cobb County Superior Court of Georgia
 
 Five days after this preposterous hearing, I was found in so-called "Contempt", for picking my son up from school. Even if, we were to argue that the initial order even had a leg to stand on, the Contempt hearing should have been given to me with a 30 day notice, and there was no contempt, as I still had, under the Courts eyes, joint legal custody of my child.
 
-So why was I in contempt? Why was I detained at the airport, in the arrivals area, waiting for my friend, in federal jurisdiction two counties away? That explanation was never given, and the Courts of Cobb County felt somehow, that they didn't owe me one. False arrest
+So why was I in contempt? Why was I detained at the airport, in the arrivals area, waiting for my friend, in federal jurisdiction two counties away? That explanation was never given, and the Courts of Cobb County felt somehow, that they didn't owe me one. False arrest.
 
 I was handcuffed, they made my child turnaround and watch. I pled for them to explain to me, why?, I warned them of my Miranda Rights. They were two men, at least 250 lbs., 6'4" -- they picked me up with my feet dangling in the air, injuring my shoulder, dislocating it at the rotator cuff. The men were dressed in plain clothes, and I was shoved into an unmarked vehicle. I asked them to identify themselves, I was flashed a cheap badge any person could acquire at a store, and told no names, not stating which police department they were in. I asked several times.
 
@@ -139,7 +143,7 @@ In my letter to Judge Poole, asking for some relief, I cited a case _Freeman v S
 
 _Freeman v State_ was a case in which Judge Kreeger himself ruled on as a Supreme Court of Georgia Judge. A case in which, the matter of evidence was presented, and the question of "clear and convincing" evidence v "sufficient" evidence, set precedent.
 
-In this case, they found that "sufficient evidence" was enought to prosecute a felony murder. And that "clear and convicing evidence" is a stricter guideline. The same issue raised in _Jackson v Virginia._
+In this case, they found that "sufficient evidence" was enough to prosecute a felony murder. And that "clear and convincing evidence" is a stricter guideline. The same issue raised in _Jackson v Virginia._
 
 This is the same Judge that gave me orders to come before the Court, with "persuasive and compelling" evidence of my mental health state. When my ex said I should pursue drug court, I was told by the Judge,
 
@@ -202,9 +206,9 @@ OCGA 9.11.37
 
 Letters, improperly entered, inadmissable and slanderous, nor provided to Defendant were used as "instruments of authenticy and guarantee of facts"
 
-Ruling were made on judges right to informal adjutication, might be argued. But facts show that there were clear laws that "precluded the judge's decisions", therefore the rulings do not stand, nor are they even admissable.
+Ruling were made on judges right to informal adjutication, might be argued. But facts show that there were clear laws that "precluded the judge's decisions", therefore the rulings do not stand, nor are they even admisable.
 
-Did I mention that Judge Brantley, one of the Judges, the one I petitioned for an Emergency Hearing and saw with my letter stating my case, just ordered a restraining order against me and my son? That's where we are. Restaining order given to Dennis Brown, against Vanessa Smith, allowing my son to be in that beasts hands.
+Did I mention that Judge Brantley, one of the Judges, the one I petitioned for an Emergency Hearing and saw with my letter stating my case, just ordered a restraining order against me and my son? That's where we are. Restraining order given to Dennis Brown, against Vanessa Smith, allowing my son to be in that beasts hands.
 
 Once I started digging into the Cobb County docket, I searched under pro se motions. I started unraveling the truth.
 
@@ -235,3 +239,7 @@ Stoddard and Kreeger, both Seniors and having sat on the Supreme Court of Georgi
 Where they breaking the law and making less money? I remember as a District Aide for the Florida House of Representatives I made about that much, around $29,000, as a young, entry level position at the age of 23\.
 
 Upon looking at the rap sheet of these Judges, I came across some interesting facts.
+
+Judge Stoddard had announced his retirement in 2012, according to story in the Atlanta Journal-Constitution (AJC), I dug up, a 22 year sitting judge. 2015 the Civil Court Salaries set new legislation that all Judges salaries would drop after a consecutive term of an incumbent had been served.
+
+Upon checking the Supervisor of Elections records for Judicial seats 2015-2016, I saw no write it, no announcement, no record of Stoddard - Kreeger, or Brantley. How are these Judges running? They are elected officials after all.
